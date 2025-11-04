@@ -1,6 +1,5 @@
  ДНК-KITI — Цифровий Автономний Організм
 
-  KITI — Цифровий Автономний Організм
 
 > KITI (Kinetic / Cognitive Intelligent Tunnel Infrastructure)  
 > Це не програма і не черговий «бот».  
